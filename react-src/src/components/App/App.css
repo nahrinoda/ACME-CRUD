@@ -1,0 +1,39 @@
+
+.App-header {
+  background-color: rgb(47, 0, 78);
+  color: #fff;
+  margin-bottom: 25px;
+  padding: 25px 25px 30px;
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 100px;
+}
+
+
+a.social-link {
+  color: #ccc;
+  font-family: monospace;
+}
+
+a.social-link:hover {
+  color: #fff;
+}
+
+#online {
+  margin-left: 10px;
+}
+
+.content {
+  margin: auto;
+}
+
+.modal {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 50%;
+}
