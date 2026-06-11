@@ -88,6 +88,9 @@
       "react-app"
     ]
   },
+  "overrides": {
+    "shell-quote": "1.8.4"
+  },
   "eslintConfig": {
     "extends": "react-app"
   }
